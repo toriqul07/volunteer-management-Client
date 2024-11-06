@@ -1,0 +1,12 @@
+.react-datepicker-wrapper {
+  width: 100%;
+  max-width: 100%;
+}
+
+.react-datepicker__view-calendar-icon input {
+  padding: 8px 16px;
+}
+
+.react-datepicker__input-container .react-datepicker__calendar-icon {
+  display: none;
+}
